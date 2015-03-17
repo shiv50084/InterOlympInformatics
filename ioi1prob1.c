@@ -1,7 +1,7 @@
 /**
 * @file     ioi1prob1.c
 * @author   Stavros Vagionitis
-* @date     xx Mar 2015
+* @date     17 Mar 2015
 * @brief    [Problem 1 in 1st International Olympiad in Informatics](http://www.ioinformatics.org/locations/ioi89/tasks89.txt)
 *           Problem 1
 *           =========
